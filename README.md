@@ -1,1 +1,11 @@
-# rust_ffi_example
+# Rust FFI Example
+
+## LibTodoList (C)
+
+- cd todolist
+- make all
+
+## Rust TodoList App
+
+- cd todo_app
+- cargo build
